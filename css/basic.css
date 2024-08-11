@@ -1,0 +1,23 @@
+.inner {
+    max-width: 1674px;
+    /* width: 100%; */
+    margin: 0 auto;
+}
+
+.title {
+    max-width: 1674px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.desc h2 {
+    font-size: 56px;
+    margin-bottom: 20px;
+    color: #404040;
+}
+
+.desc p {
+    color: #4a484c;
+    font-weight: 600;
+    font-size: 600;
+}
